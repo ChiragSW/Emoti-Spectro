@@ -1,0 +1,10 @@
+Class,Precision,Recall,F1-Score,Support
+Angry,0.61,0.58,0.59,434
+Disgusted,0.54,0.42,0.47,373
+Fearful,0.52,0.56,0.54,410
+Happy,0.64,0.6,0.62,434
+Neutral,0.56,0.59,0.57,359
+Sad,0.51,0.54,0.52,434
+Accuracy,,,0.57,2444
+Macro avg,0.56,0.55,0.55,2444
+Weighted avg,0.57,0.57,0.57,2444
